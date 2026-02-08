@@ -35,7 +35,7 @@ I'm a **first-year B.Tech Computer Science student** passionate about blending l
 - 🔭 **Working on:** [Neurolens](https://github.com/Praneelpandey/Neurolens-), an AI-powered text summarizer using the Gemini API.
 - 🌱 **Learning:** Swift & SwiftUI for iOS app development.
 - 👯 **Collaborating on:** Beginner-friendly Open Source projects & Swift challenges.
-- ⚡ **Fun fact:** I love video editing and content creation!
+- ⚡ **Fun fact:** I love exploring new things and content creation!
 
 ---
 
